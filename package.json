@@ -3,6 +3,10 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+   "author": {
+    "name": "Ajaysaxena976",
+    "email": "ajaysa9760@gmail.com"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
